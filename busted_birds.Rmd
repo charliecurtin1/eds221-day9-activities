@@ -13,6 +13,7 @@ Your job is to fix all errors in the code below to make a fully functioning scri
 
 Before each code chunk, you're given a description of what is supposed to happen in each code chunk so you don't go too astray. **You should LOOK AT THE OUTPUT of each line after you've corrected any errors to ensure that it's working as expected, and to confirm you understand what the code is doing.** 
 
+
 No error expected in this code chunk:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
